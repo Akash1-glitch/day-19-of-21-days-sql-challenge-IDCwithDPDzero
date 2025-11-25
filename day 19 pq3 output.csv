@@ -1,0 +1,5 @@
+service,total_admitted,admission_rank
+general_medicine,2332,1
+surgery,1686,2
+emergency,1185,3
+ICU,648,4

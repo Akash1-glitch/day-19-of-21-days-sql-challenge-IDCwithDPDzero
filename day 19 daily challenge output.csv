@@ -1,0 +1,14 @@
+service,week,patient_satisfaction,patients_admitted,sat_rank
+emergency,19,99,16,1
+emergency,48,99,20,1
+emergency,11,98,16,3
+general_medicine,45,99,40,1
+general_medicine,1,97,37,2
+general_medicine,47,97,55,2
+ICU,16,98,15,1
+ICU,26,98,8,1
+ICU,48,98,16,1
+surgery,20,99,31,1
+surgery,47,99,48,1
+surgery,14,97,33,3
+surgery,36,97,47,3
